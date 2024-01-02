@@ -37,7 +37,7 @@ Les vrais mutants sont semblables aux PSIchiques : la cause de leur mutation est
 
 Les mutants se distinguent des PSI par les modifications **physiques** qu'ils portent : cela peut être un appendice en plus (comme un 3e bras) ou la présence d'un sang empoisonné.
 
-La plupart des [[../../Planètes|Planètes]] font la différence entre PSI et Mutants tels que :
+La plupart des [[./Planètes|Planètes]] font la différence entre PSI et Mutants tels que :
 - Les mutants n'ont pas moyen de modifiés leur "milieu" extérieur, que ce soit par la télékinésie ou par la création instantané d'élément.
 - Il n'existe aucun moyen physique de séparer un PSI d'un humain, que ce soit la couleur de leur yeux à leur peau.
 

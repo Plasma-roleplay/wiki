@@ -1,7 +1,6 @@
 ---
 index: true
+title: PLASMA
 ---
-
-# PLASMA
 
 %% todo %%

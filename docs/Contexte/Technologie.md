@@ -61,17 +61,6 @@ Notons que les Japonais de l’Empire ont remis les katanas à la mode, mais ces
 
 On raconte souvent qu’il existe pour un mercenaire, une arme, et cela est vrai, tant il en existe des milliards.
 
-# Classes
-
-Lorsque les diverses modifications corporelles sont arrivées, il a fallu créer des distinctions entre les gens afin de les reconnaître et les classer, d’où le nom de classe. Il serait gênant qu’un Modifié participe à une compétition où il n’y a que des humains, par exemple.
-
-- Les humains n’ont aucune modification corporelle majeure, et ne portent pas d’implant mémoriel couplé à des implants de rajeunissement. C’est l’ensemble général de la galaxie.
-- Les PSI-chiques sont des humains ayant subis des mutations à cause des radiations de l'espace. Assez nombreux (il semblerait que 45% de la population serait PSIs), ils ne peuvent pas porter d'implants très avancés. Les PSI-chiques sont capables d'utiliser des capacités dépassant les règles "physiques établis", tel que des capacités de téléportation, contrôle de la gravité, ou encore contrôle élémentaires comme le feu ou la lumière.
-- Les immortels sont des humains possédant des implants mémoriels et de rajeunissement. Après une baisse, de nombreuses personnes ont fait part de leur désir de devenir immortels et leur nombre est en constante évolution : on en dénombrait plus d’un million.
-- Les Modifiés sont des embryons génétiquement programmés pour leur travail, voire pour le plaisir des parents. Généralement, ils sont une commande d’un état ou d’un gouvernement, et les généticiens attendent de tomber sur un couple marié qui donnerait les meilleurs taux, avant de modifier pour créer un être encore plus supérieur. Ils ne se mélangent pas aux humains (en tout cas, on énonce peu de mariages humain et Modifié). Peu nombreux, ils sont souvent très beaux, mais trop parfaits : beaucoup les appellent « poupée de plastique ». La plupart sont des soldats, et la plus grande population de modifiée est dans le Protectorat. Jamais les Modifiés ne naissent dans des familles pauvres ou dans des mariages non heureux, pour éviter d’avoir un Modifié devenant mercenaire (par exemple).
-- Les Cyborgs sont des soldats dont on n’a pas encore recréé le corps après sa mort. Généralement, ils sont de la chair à canon pour des missions suicides et la plupart en deviennent fous. Parfois, des civils choisissent de devenir un cyborg, mais seuls eux connaissent la raison.
-- Les Idenshi sont, à priori, une rumeur. Créé par l’Empire des Yokomura il y a une trentaine d’année, il existe peu de preuve de leurs existences. A priori, contrairement aux Modifiés, les Idenshi ont des modifications post-naissance à l’aide de sérum mutagène et d’un entrainement en réalité virtuel. Cependant, ils deviennent très instables et la plupart sont décédés de manières plus ou moins violente. Les rumeurs racontent qu’il en existe cependant encore deux ou trois dans la galaxie. Ce sont des tueurs surentrainé mais aussi des génies.
-
 # Voyages spatiaux
 
 La technologie utilisés par les vaisseaux pour les déplacements est appelé "le warp". Les générateurs des vaisseaux sont capables d'ouvrir une brèche dans l'espace-temps pour créer des trous de vers, ce qui permet un déplacement dans un chemin sécurisé entre un point A et B, pour peu qu'on soit capable de calculer le point d'arrivé.
